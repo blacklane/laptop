@@ -32,8 +32,6 @@ fancy_echo() {
 }
 ### end common-components/shared-functions
 
-fancy_echo "Changing your shell to zsh ..."
-  chsh -s $(which zsh)
 ### end common-components/zsh
 
 if [[ -f /etc/zshenv ]]; then
