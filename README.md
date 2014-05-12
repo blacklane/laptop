@@ -1,3 +1,8 @@
+This is the Blacklane fork of laptop for setting up new machines. It contains
+several additions necessary/useful for our environment.
+
+Note that Linux version may not be in sync with the Mac additions.
+
 Laptop
 ======
 
