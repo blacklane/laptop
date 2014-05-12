@@ -3,6 +3,19 @@ several additions necessary/useful for our environment.
 
 Note that Linux version may not be in sync with the Mac additions.
 
+Changes:
+
+* bash instead of zsh
+* Ruby 2.0.0
+* PhantomJS
+* Tig
+* Hub
+* direnv
+* brew-cask
+* iTerm2
+* MySQL
+* GitX
+
 Laptop
 ======
 
