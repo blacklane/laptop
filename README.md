@@ -16,6 +16,8 @@ Changes:
 * MySQL
 * GitX
 
+If you run into any problems using this, or have a suggestion for an improvement, then please create an issue.
+
 Laptop
 ======
 
