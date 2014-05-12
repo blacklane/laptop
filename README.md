@@ -53,7 +53,6 @@ Read, then run the script:
 What it sets up
 ---------------
 
-* Zsh as your shell
 * Bundler gem for managing Ruby libraries
 * Exuberant Ctags for indexing files for vim tab completion
 * Foreman gem for serving Rails apps locally
