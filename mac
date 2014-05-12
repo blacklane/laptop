@@ -166,6 +166,32 @@ fancy_echo "Installing rcm, to manage your dotfiles ..."
   brew install rcm
 ### end mac-components/rcm
 
+### begin blacklane-additions
+fancy_echo "Installing phantomjs"
+  brew install phantomjs
+
+fancy_echo "Installing tig (terminal git client)"
+  brew install tig
+
+fancy_echo "Installing hub for github"
+  brew install hub
+
+fancy_echo "Installing direnv"
+  brew install direnv
+
+fancy_echo "Installing brew-cask"
+  brew tap phinze/cask
+  brew install brew-cask
+
+fancy_echo "Installing iterm2"
+  brew cask install iterm2
+
+fancy_echo "Installing mysql"
+  brew install mysql
+
+fancy_echo "Installing gitx (rowanj fork)"
+  brew cask install gitx-rowanj
+
 fancy_echo "Installing your personal additions from ~/.laptop.local ..."
   if [[ -f ~/.laptop.local ]]; then
     source ~/.laptop.local
